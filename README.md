@@ -1,3 +1,4 @@
-# ea_model
+# Archimate 3.1 Sample Models
 Sample Models for ArchiMate Enterprise Architecture Modeling
-That is it.
+
+
