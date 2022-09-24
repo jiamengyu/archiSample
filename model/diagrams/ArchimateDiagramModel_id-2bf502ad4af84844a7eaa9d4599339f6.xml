@@ -4,16 +4,27 @@
     name="Default View"
     id="id-2bf502ad4af84844a7eaa9d4599339f6">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ed7d419f2d8c4ef083716736053d6785"
-      textPosition="1">
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-0fc836bd0ac348e78c70b5f09a8c55ef"
+      name="Grouping"
+      textAlignment="1">
     <bounds
-        x="261"
-        y="139"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Location"
-        href="Location_id-23b3f2b447394764a6cb8771ddd6fb26.xml#id-23b3f2b447394764a6cb8771ddd6fb26"/>
+        x="132"
+        y="84"
+        width="400"
+        height="339"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ed7d419f2d8c4ef083716736053d6785"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Location"
+          href="Location_id-23b3f2b447394764a6cb8771ddd6fb26.xml#id-23b3f2b447394764a6cb8771ddd6fb26"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
